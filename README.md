@@ -2,7 +2,7 @@
 
 Bayes Transition PLL is a novel algorithm for partial-label learning, inspired by advancements in noisy label learning. This project introduces a Bayesian transition approach to improve robustness and accuracy in handling ambiguous and noisy labels.
 
-##Overview
+## Overview
 * Objective: Develop a Bayesian transition matrix-based method to enhance partial-label learning.
 * Key Contributions:
   * Innovative algorithm combining noisy label learning techniques with partial-label learning.
