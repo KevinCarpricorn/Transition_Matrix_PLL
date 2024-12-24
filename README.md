@@ -33,7 +33,7 @@ Bayes Transition PLL is a novel algorithm for partial-label learning, inspired b
 2.	Run training:
 
 ```bash
-python main.py --epochs 50 --batch_size 32 --learning_rate 0.001
+python main.py --epochs 50 --batch_size 32 --lr 0.001
 ```
 
 
